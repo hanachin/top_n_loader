@@ -1,4 +1,4 @@
-# TopNLoader
+# TopNLoader ![GitHub Actions test Workflow status badge](https://github.com/hanachin/top_n_loader/workflows/test/badge.svg)
 
 When you need top 5 sub-records for each record
 ```ruby
